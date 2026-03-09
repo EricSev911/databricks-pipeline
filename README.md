@@ -8,4 +8,5 @@ Databricks medallion pipeline (Bronze / Silver / Gold) joining two public CMS Me
 
 To run it: open the [source code](https://github.com/EricSev911/databricks-pipeline/blob/main/cms_multi_dataset_pipeline.py) and click the **Download raw file** button, import the file into a Databricks workspace, and hit Run All. The notebook creates its own schema and downloads the source data automatically.
 
-<img width="211" height="85" alt="image" src="https://github.com/user-attachments/assets/566b5da7-fad6-433e-a232-fc61928619a8" />
+<img width="179" height="67" alt="image" src="https://github.com/user-attachments/assets/29ab230a-8f18-4ef7-b668-7bc7ca1b1895" />
+
